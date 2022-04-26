@@ -13,7 +13,7 @@
 10. "Docker orchestration" টুলস, যেমন "Docker swarm" ও "Kubernetes" সম্পর্কে জানব।
 1. "YAML" সম্পর্কে কিছু ধারণা। 
 
-তাহলে আর দেরি না করে শুরু করা যাক....     
+তাহলে আর দেরি না করে শুরু করা যাক...
 
 * [Docker Overview](/Docker-introduction/Docker_overview.md)
 * [Docker application](/Docker-introduction/Docker_application.md)
