@@ -17,5 +17,5 @@ docker run -e APP_COLOR=blue image_name
 ```
 docker inspect container_name
 ```
-img1
 
+![1](https://user-images.githubusercontent.com/61577824/168731010-c84c5e2d-9ec3-4aae-99f5-b5171047001d.png)
