@@ -16,14 +16,13 @@ Windows 7 or higher
 
 Virtualization is enabled
 
-
-img1
+![1](https://user-images.githubusercontent.com/61577824/168731381-ee322bae-4a9a-4ebd-aeab-16cee931af78.png)
 
 
 ## Docker desktop for windows
 Docker Desktop এ Docker toolbox এর oracle virtual box এর জায়গায় Microsoft hyper-V নামে একটি নেটিভ ভার্চুয়ালাইজেশন ট্যাকনোলজি ব্যবহার করা হয়। Docker Windows ইন্সটল করার সময়ও একটি লিনাক্স সিস্টেম তৈরি হয়। কিন্তু এক্ষেত্রে লিনাক্স ওএস Microsoft hyper-V এর উপর তৈরি হয় এবং এর উপর ডকার রান করে। hyper-V এর উপর এই নির্ভরশীলতার কারণে Docker Dekstop for Windows শুধু Windows 10 enterprise or professional edition  এবং Windows Server 2016 এ সাপোর্ট করে। 
 
-img2
+![2](https://user-images.githubusercontent.com/61577824/168731386-40179e31-f08f-47f6-9f95-f684233ebe31.png)
 
 এখন পর্যন্ত উইন্ডোজ ডকার সাপোর্ট এর জন্য আমরা যা যা দেখছি সবকিছু শুধুমাত্র লিনাক্স কন্টেইনারের জন্য প্রযোজ্য। দুইটি অপশনই উইন্ডোজ হোস্টে লিনাক্স কন্টেইনার রান করে।  Windows Server 2016 এর মাধ্যমে Microsoft সর্বপ্রথম Windows container এর জন্য সাপোর্ট শুরু করে। এর মাধ্যমে উইন্ডোজ এপ্লিকেশনকে উইন্ডোজ ডকার কন্টেইনারের মধ্যে প্যাকেজ করা যায় এবং Docker Desktop for Windows ব্যবহার করে উইন্ডোজ ডকার হোস্টে রান করা যায়। 
 
@@ -42,6 +41,6 @@ Docker Dekstop for Windows এ লিনাক্স কন্টেইনার
 
 Nano Server হল একটি headless deployment অপশন যার সাইজ একটি অপারেটিং সিস্টেমের তুলনায় অতি নগন্য।  Windows Server Core বেস ইমেজটি Nano Server এর মত এত লাইটওয়েট নয়।
 
-img3
+![3](https://user-images.githubusercontent.com/61577824/168731391-06b62bd1-09a4-4c24-bc5d-d2cadebbdc8b.png)
 
 আমরা ডকার কন্টেইনার রান করার ২টি মাধ্যম দেখলাম। একটি VirtualBox এবং অপরটি Hyper-V. এটা আমাদের মনে রাখতে হবে যে একই উইন্ডোজ হোস্টে এই ২টি একসাথে থাকতে পারবে না। একটি থেকে অপরটিতে শিফট করার জন্য প্রয়োজনীয় স্টেপ ডকার ডকুমেন্টেশন পেজে দেয়া আছে।
