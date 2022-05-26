@@ -99,3 +99,6 @@
 এক্ষেত্রে ফাইলের একদম শেষে `networks` নামে একটি property দিয়ে তার আন্ডারে সব নেটওয়ার্ক উল্লেখ করে দিতে হবে (এক্ষেত্রে দুটি নেটওয়ার্ক - ফ্রন্ট-ইন্ড ও ব্যাক-ইন্ড)। তারপর প্রত্যেকটি সার্ভিসের আন্ডারে `networks` নামে প্রোপার্টি দিয়ে তার আন্ডারে সার্ভিসটি যেসব নেটওয়ার্কের সাথে যুক্ত তা উল্লেখ করে দিতে হবে। এক্ষেত্রে redis,worker এবং db-এর জন্যে শুধুমাত্র ব্যাক-ইন্ড নেটওয়ার্ক এবং voting-app ও result-app এর ক্ষেত্রে ফ্রন্ট-ইন্ড ও ব্যাক-ইন্ড উভয় নেটওয়ার্ক।
 
 ![](Screenshot%20from%202022-05-14%2020-12-14.png)
+
+
+[previous page](https://github.com/Raisul191491/Docker-Beginner/blob/main/Docker-images/Docker_images.md) <--> [next page](https://github.com/Raisul191491/Docker-Beginner/blob/main/Docker_engine%2Cstorage/Docker_engine_and_storage.md)
