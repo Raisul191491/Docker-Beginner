@@ -73,3 +73,6 @@ Docker এর নিজস্ব ```DNS server``` আছে, যার মাধ
 ![dns](/Docker-networking/dns.png)
 
 আপাতত শুরু হিসেবে আমরা এতদূরই জানব নেটওয়ার্ক এর ব্যাপারে। পরের বিষয়গুলো উচ্চতর ধাপে আমরা জানতে পারব।
+
+
+[previous page](https://github.com/Raisul191491/Docker-Beginner/blob/main/Docker_engine,storage/Docker_engine_and_storage.md) <--> [next page](https://github.com/Raisul191491/Docker-Beginner/blob/main/Docker-registry/Docker_registry.md)
