@@ -118,3 +118,5 @@
 > docker exec distracted_mcclintock cat etc/hosts
  
 ![](Screenshot%20from%202022-04-28%2012-05-14.png)
+
+[previous page](https://github.com/Raisul191491/Docker-Beginner/blob/main/Docker-introduction/Introduction.md) <--> [next page](https://github.com/Raisul191491/Docker-Beginner/blob/main/Docker-run/Docker_run.md)
