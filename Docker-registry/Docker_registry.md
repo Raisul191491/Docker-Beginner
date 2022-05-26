@@ -62,3 +62,5 @@
 - অন্য হোস্ট থেকে পুল করতে হলে ঐ ডকার হোস্টের আইপি বা ডোমেইন ব্যবহার করে পুল করতে হবে।
 
 ![](Screenshot%20from%202022-04-30%2016-52-08.png)
+
+[previous page](https://github.com/Raisul191491/Docker-Beginner/blob/main/Docker-networking/Docker_networking.md) <--> [next page](https://github.com/Raisul191491/Docker-Beginner/blob/main/Docker-on-Mac-and-Windows/docker_on_mac.md)
